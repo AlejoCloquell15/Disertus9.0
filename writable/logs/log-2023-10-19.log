@@ -1,0 +1,379 @@
+INFO - 2023-10-19 13:08:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:44:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:44:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-10-19 13:46:36 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-10-19 13:46:36 --> 220 smtp.gmail.com ESMTP i17-20020a170902eb5100b001b8a2edab6asm1946937pli.244 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [179.60.108.69]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials i17-20020a170902eb5100b001b8a2edab6asm1946937pli.244 - gsmtp
+
+INFO - 2023-10-19 13:46:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:46:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:47:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-10-19 13:47:51 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-10-19 13:47:51 --> 220 smtp.gmail.com ESMTP jc19-20020a17090325d300b001c9b384731esm1940103plb.270 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [179.60.108.69]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jc19-20020a17090325d300b001c9b384731esm1940103plb.270 - gsmtp
+
+INFO - 2023-10-19 13:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:48:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:50:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:52:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 13:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 14:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 14:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 14:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 14:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 14:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-19 14:49:09 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-19 14:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 14:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-19 14:54:22 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:04:29 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:05:07 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:06:56 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-19 15:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:07:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-19 15:08:33 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:09:26 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:11:40 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:14:22 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:19:22 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-19 15:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-19 15:47:07 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:47:15 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:49:47 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-19 15:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:50:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:52:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 15:52:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-19 15:52:44 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-19 15:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-19 15:56:11 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:59:09 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\recibirNodemcu.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\recibirNodemcu.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 15:59:30 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 16:00:32 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 16:01:57 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 16:08:37 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 16:09:29 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 16:12:09 --> Object of class App\Models\NodemcuModelo could not be converted to string
+in APPPATH\Controllers\recibirNodemcu.php on line 75.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-19 16:14:51 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12) VALUES (:12:)' at line 1 in C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `no...', 0)
+#1 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `no...')
+#2 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `no...')
+#3 C:\xampp\htdocs\Disertus\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `no...', Array, false)
+#4 C:\xampp\htdocs\Disertus\app\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('12')
+#5 C:\xampp\htdocs\Disertus\app\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('12')
+#6 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+#7 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+#8 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Disertus\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-19 16:14:51 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12) VALUES (:12:)' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `nodemcu` (12) VALUES (:12:)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `nodemcu` (12) VALUES (:12:)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `nodemcu` (12) VALUES (:12:)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `nodemcu` (12) VALUES (:12:)', [...], false)
+ 5 APPPATH\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('12')
+ 6 APPPATH\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('12')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-19 16:15:00 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12) VALUES (:12:)' at line 1 in C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `no...', 0)
+#1 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `no...')
+#2 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `no...')
+#3 C:\xampp\htdocs\Disertus\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `no...', Array, false)
+#4 C:\xampp\htdocs\Disertus\app\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('12')
+#5 C:\xampp\htdocs\Disertus\app\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('12')
+#6 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+#7 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+#8 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Disertus\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-19 16:15:00 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '12) VALUES (:12:)' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `nodemcu` (12) VALUES (:12:)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `nodemcu` (12) VALUES (:12:)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `nodemcu` (12) VALUES (:12:)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `nodemcu` (12) VALUES (:12:)', [...], false)
+ 5 APPPATH\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('12')
+ 6 APPPATH\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('12')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-19 16:17:16 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2133) VALUES (:2133:)' at line 1 in C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `no...', 0)
+#1 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `no...')
+#2 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `no...')
+#3 C:\xampp\htdocs\Disertus\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `no...', Array, false)
+#4 C:\xampp\htdocs\Disertus\app\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('2133')
+#5 C:\xampp\htdocs\Disertus\app\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('2133')
+#6 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+#7 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+#8 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Disertus\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-19 16:17:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2133) VALUES (:2133:)' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `nodemcu` (2133) VALUES (:2133:)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `nodemcu` (2133) VALUES (:2133:)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `nodemcu` (2133) VALUES (:2133:)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `nodemcu` (2133) VALUES (:2133:)', [...], false)
+ 5 APPPATH\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('2133')
+ 6 APPPATH\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('2133')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-19 16:18:27 --> Cannot access offset of type string on string
+in APPPATH\Models\nodemcuModelo.php on line 19.
+ 1 APPPATH\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('2133')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-10-19 16:19:29 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2133) VALUES (:2133:)' at line 1 in C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Disertus\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `no...', 0)
+#1 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `no...')
+#2 C:\xampp\htdocs\Disertus\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `no...')
+#3 C:\xampp\htdocs\Disertus\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `no...', Array, false)
+#4 C:\xampp\htdocs\Disertus\app\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('2133')
+#5 C:\xampp\htdocs\Disertus\app\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('2133')
+#6 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+#7 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+#8 C:\xampp\htdocs\Disertus\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Disertus\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-10-19 16:19:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2133) VALUES (:2133:)' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `nodemcu` (2133) VALUES (:2133:)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `nodemcu` (2133) VALUES (:2133:)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `nodemcu` (2133) VALUES (:2133:)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `nodemcu` (2133) VALUES (:2133:)', [...], false)
+ 5 APPPATH\Models\nodemcuModelo.php(19): CodeIgniter\Database\BaseBuilder->insert('2133')
+ 6 APPPATH\Controllers\recibirNodemcu.php(71): App\Models\NodemcuModelo->insertarMAC('2133')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\RecibirNodemcu->recibirMAC()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RecibirNodemcu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-10-19 16:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 16:30:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-10-19 16:35:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-19 16:35:16 --> Undefined variable $codigoNodemcu
+in APPPATH\Controllers\registrar.php on line 105.
+ 1 APPPATH\Controllers\registrar.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $codigoNodemcu', 'C:\\xampp\\htdocs\\Disertus\\app\\Controllers\\registrar.php', 105)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Registrar->ingresarDatos()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Registrar))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
