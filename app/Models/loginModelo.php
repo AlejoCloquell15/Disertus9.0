@@ -61,4 +61,22 @@ class LoginModelo extends Model
         $res = $sql->getRow();
         return $res;
     }
+
+    public function editarNombre($nombre, $idUsuario)
+    {
+        $sql = "UPDATE usuarios SET Nombre = ? WHERE IdUsuario = ?";
+        $this->db->query($sql, [$nombre, $idUsuario]);
+    }
+
+    public function editarCorreo($correo, $idUsuario)
+    {
+        $sql = "UPDATE usuarios SET Email = ? WHERE IdUsuario = ?";
+        $this->db->query($sql, [$correo, $idUsuario]);
+    }
+
+    public function eliminarCuenta($idUsuario)
+    {
+        echo "hola";
+        $sql = $this->db->query("DELETE usuarios, nodemcu FROM usuarios INNER JOIN nodemcu ON nodemcu.IdUsuario = usuarios.IdUsuario WHERE usuarios.IdUsuario = '{$idUsuario}'");
+    }
 }

@@ -109,7 +109,7 @@
     }
 
     .estilo-modificado {
-        border: none;
+        border: 1px transparent;
         border-bottom: solid 1px #009586;
     }
 
@@ -134,17 +134,34 @@
 
     #enviar-nombre {
         background-color: white;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 0;
+        border: 1px solid #009586;
+        height: 24px;
+        border-radius: 4px;
+        transition: transform 0.4s;
+    }
+
+    #enviar-nombre:hover {
+        background-color: rgba(9, 118, 121, 1);
+        color: white;
+        transform: scale(1.05);
     }
 
     #enviar-correo {
         background-color: white;
-        border: none;
-        padding: 0;
+        border: 1px solid #009586;
+        height: 24px;
+        border-radius: 4px;
+        transition: transform 0.5s;
     }
+
+    #enviar-correo:hover {
+        background-color: rgba(9, 118, 121, 1);
+        color: white;
+        transform: scale(1.05);
+    }
+
+
+
 
     box-icon {}
 </style>
@@ -156,27 +173,28 @@
         <p class="b">Información sobre la cuenta</p>
         <div class="cont-nom">
             <p>Nombre De Usuario: </p>
-            <form action="">
-                <input id="input-nombre" type="text" value="<?php echo $consulta->Nombre ?>" readonly>
+            <form action="<?php echo base_url() ?>editarNombre" method="post">
+                <input id="input-nombre" type="text" value="<?php echo $consulta->Nombre ?>" readonly name="nombre"
+                    required>
                 <button id="button-nombre" class="btn-editar"><i class="bi bi-pencil-square"></i></button>
-                <button id="enviar-nombre" style="display: none;">
-                </button>
+                <button id="enviar-nombre" style="display: none;">Enviar</button>
             </form>
         </div>
         <div class="cont-correo">
             <p>Correo Electronico Asociado a La Cuenta: </p>
-            <form action="">
-                <input id="input-correo" type="text" value="<?php echo $consulta->Email ?>" readonly>
+            <form action="<?php echo base_url() ?>editarCorreo" method="post">
+                <input id="input-correo" type="text" value="<?php echo $consulta->Email ?>" readonly name="correo"
+                    required>
                 <button id="button-correo" class="btn-editar"><i class="bi bi-pencil-square"></i></button>
-                <button style="display: none;" id="enviar-correo">
-                </button>
+                <button style="display: none;" id="enviar-correo">Enviar</button>
             </form>
         </div>
-        <form>
+        <form method="post" action="<?php echo base_url(); ?>botonesConfUsu">
             <div class="cont-btns">
-                <input type="submit" value="Cambiar Contraseña" class="input-submit">
-                <input type="submit" value="Cerrar Sesion" class="input-submit-2">
-                <input type="submit" value="Eliminar cuenta" class="input-submit-3">
+                <input type="submit" value="Cambiar Contraseña" class="input-submit" name="cambiarPass">
+                <input type="submit" value="Cerrar Sesion" class="input-submit-2" name="cerrarSession">
+                <input type="button" value="Eliminar cuenta" class="input-submit-3" onclick="confirmarEliminar()"
+                    name="elimnarCuenta">
             </div>
         </form>
     </div>
@@ -195,9 +213,6 @@
             inputcorreo.classList.toggle("estilo-modificado");
         });
 
-        enviarcorreo.addEventListener("click", function (e) {
-            e.preventDefault();
-        });
 
         let inputnombre = document.getElementById("input-nombre");
         let buttonnombre = document.getElementById("button-nombre");
@@ -212,9 +227,16 @@
             inputnombre.classList.toggle("estilo-modificado");
         });
 
-        enviarnombre.addEventListener("click", function (e) {
-            e.preventDefault();
-        });
+        function confirmarEliminar() {
+            var confirmacion = confirm("¿Estás seguro de que deseas eliminar la cuenta?");
+            if (confirmacion) {
+                // Si el usuario hace clic en "Aceptar", ejecuta la acción de eliminación
+                window.location.href = '<?php echo base_url('eliminarCuenta') ?>';
+            } else {
+                // Si el usuario hace clic en "Cancelar", no hagas nada
+                return false;
+            }
+        }
     </script>
 </body>
 

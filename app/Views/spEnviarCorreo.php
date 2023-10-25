@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +32,7 @@
         .h2 {
             padding: 20px;
             width: 400px;
-            align: center !important;
+            margin-left: 45px;
         }
 
         .form-box p {
@@ -67,19 +68,24 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <div class="form-box">
-        <h2 class="h2">Recuperación de Contraseña</h2>
-            <p>Introduce el correo con el que te has registrado en Disertus.<br>Te enviaremos un código a tu correo con el cual podrás cambiar tu contraseña.</p>
-            <form action="<?php echo base_url();?>enviarCorreo" method="post">
+            <h2 class="h2">Cambio de Contraseña</h2>
+            <p>Introduce el correo con el que te has registrado en Disertus.<br>Te enviaremos un código a tu correo con
+                el cual podrás cambiar tu contraseña.</p>
+            <form action="<?php echo base_url(); ?>enviarCorreo" method="post">
                 <input type="text" name="correo" placeholder="Correo registrado">
                 <input type="submit" value="Enviar Código">
             </form>
-            <?php if(isset($mensaje)): ?>
-                <p class="message"><?php echo $mensaje; ?></p>
+            <?php if (isset($mensaje)): ?>
+                <p class="message">
+                    <?php echo $mensaje; ?>
+                </p>
             <?php endif; ?>
         </div>
     </div>
 </body>
+
 </html>

@@ -72,6 +72,12 @@ $routes->post('/recibirMAC', 'recibirNodemcu::recibirMAC');
 $routes->get('/cargarSob', 'Home::cargarSob');
 $routes->get('/cargarMan', 'Home::cargarMan');
 $routes->get('/cargarUsu', 'Home::cargarConfUsu');
+$routes->post('/editarNombre', 'login::editarNombre');
+$routes->post('/editarCorreo', 'login::editarCorreo');
+$routes->post('/botonesConfUsu', 'login::botonesConfUsu');
+$routes->post('/eliminarCuenta', 'login::eliminarCuenta');
+$routes->get('/eliminarCuenta', 'login::eliminarCuenta');
+
 
 
 /*

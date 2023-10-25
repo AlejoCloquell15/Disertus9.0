@@ -139,4 +139,91 @@ class Login extends BaseController
         }
         // El correo electrónico se envió exitosamente
     }
+
+    //Este apartado es para la edicion de datos usuarios
+
+    public function editarNombre()
+    {
+        $utils = new Utils();
+        $auth = $utils->token();
+        if ($auth == 1) {
+            return view('spLogin');
+        } elseif ($auth == 2) {
+            return redirect()->route('cerrarSession');
+        }
+
+        $idUsuario = session('idUser');
+
+        $nombre = $this->request->getPost('nombre');
+        $loginModelo = new loginModelo();
+
+        $loginModelo->editarNombre($nombre, $idUsuario);
+
+        return redirect()->route('cargarUsu');
+    }
+
+    public function editarCorreo()
+    {
+        $utils = new Utils();
+        $auth = $utils->token();
+        if ($auth == 1) {
+            return view('spLogin');
+        } elseif ($auth == 2) {
+            return redirect()->route('cerrarSession');
+        }
+
+        $idUsuario = session('idUser');
+
+        $correo = $this->request->getPost('correo');
+        $loginModelo = new loginModelo();
+
+        $loginModelo->editarCorreo($correo, $idUsuario);
+
+        return redirect()->route('cargarUsu');
+    }
+
+    public function botonesConfUsu()
+    {
+        $utils = new Utils();
+        $auth = $utils->token();
+        if ($auth == 1) {
+            return view('spLogin');
+        } elseif ($auth == 2) {
+            return redirect()->route('cerrarSession');
+        }
+
+        if ($this->request->getVar('cambiarPass')) {
+            $session = \Config\Services::session();
+            $sessionModelo = new sessionModelo();
+            $idUsuario = session('idUser');
+
+            $sessionModelo->eliminarToken($idUsuario);
+
+            unset($_SESSION['token']);
+            unset($_SESSION['idUser']);
+
+            return redirect()->route('cargarRecuperacion');
+        }
+
+        if ($this->request->getVar('cerrarSession')) {
+            return redirect()->route('cerrarSession');
+        }
+    }
+
+    public function eliminarCuenta()
+    {
+        $utils = new Utils();
+        $auth = $utils->token();
+        if ($auth == 1) {
+            return view('spLogin');
+        } elseif ($auth == 2) {
+            return redirect()->route('cerrarSession');
+        }
+
+        $idUsuario = session('idUser');
+        $loginModelo = new loginModelo();
+        $loginModelo->eliminarCuenta($idUsuario);
+
+        return redirect()->route('cerrarSession');
+    }
 }
