@@ -1,0 +1,15 @@
+ERROR - 2023-10-26 12:05:52 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-10-26 12:05:52 --> 220 smtp.gmail.com ESMTP u14-20020a056a00124e00b006bf43e5619bsm9723527pfi.195 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [181.228.73.93]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u14-20020a056a00124e00b006bf43e5619bsm9723527pfi.195 - gsmtp
+
